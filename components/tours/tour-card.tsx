@@ -1,5 +1,3 @@
-"use client";
-
 import Image from "next/image";
 import { Calendar, Clock, Users, Bus, UserCheck, Ticket, Languages } from "lucide-react";
 import { Button } from "@/components/ui/button";
