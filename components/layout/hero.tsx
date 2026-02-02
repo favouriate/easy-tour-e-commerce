@@ -16,7 +16,7 @@ export function Hero() {
                 />
                 {/* Overlay for text contrast */}
                 <div className="absolute inset-0 bg-black/40" />
-                <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/60" />
+                <div className="absolute inset-0 bg-linear-to-b from-transparent via-transparent to-black/60" />
             </div>
 
             <div className="container mx-auto px-4 flex flex-col items-center z-10">
