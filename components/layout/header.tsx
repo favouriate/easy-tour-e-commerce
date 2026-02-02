@@ -6,7 +6,6 @@ import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
 import {
     Sheet,
-    SheetClose,
     SheetContent,
     SheetTrigger,
 } from "@/components/ui/sheet";
